@@ -1,2 +1,2 @@
-id = LangLaAnhHung
-LangLaAnhHung= 1:160.30.112.144:14445:2908
+id = Test
+Làng z = 1:160.30.112.144:14445:14446
